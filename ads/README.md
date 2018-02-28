@@ -1,4 +1,4 @@
-# ADS
+# Algorithms And Data Structures
 
 ## [Asymptotic Notation](asymptotic_notation.ipynb)
 
