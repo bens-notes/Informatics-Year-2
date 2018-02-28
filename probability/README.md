@@ -1,3 +1,3 @@
 # Probabilty With Application
 
-# [Counting](counting.ipynb)
+## [Counting](counting.ipynb)
