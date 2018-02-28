@@ -1,6 +1,6 @@
 # Notes
 
-## [Algorithums And Data Structures](ads/)
+## [Algorithms And Data Structures](ads/)
 
 ## [Probability With Applications](probability/)
 
