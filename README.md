@@ -1,4 +1,4 @@
-# Notes
+# Informatics Year 2
 
 ## [Algorithms And Data Structures](ads/)
 
