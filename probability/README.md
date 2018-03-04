@@ -9,3 +9,5 @@
 ## [Discrete Random Variables](discrete_random_variables.ipynb)
 
 ## [Binomial Random Variable](binomial_random_variable.ipynb)
+
+## [Possion Random Variable](possion_random_variable.ipynb)
