@@ -15,3 +15,5 @@
 ## [Geometric Random Variable](geometric_random_variable.ipynb)
 
 ## [Negative Binomial Random Variable](negative_binomial_random_variable.ipynb)
+
+## [Hypergeometric Random Variable](hypergeometric_random_variable.ipynb)
