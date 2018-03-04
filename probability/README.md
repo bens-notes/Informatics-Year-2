@@ -11,3 +11,6 @@
 ## [Binomial Random Variable](binomial_random_variable.ipynb)
 
 ## [Possion Random Variable](possion_random_variable.ipynb)
+
+## [Geometric Random Variable](geometric_random_variable.ipynb)
+
