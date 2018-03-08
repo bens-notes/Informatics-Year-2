@@ -21,3 +21,5 @@
 ## [Continuous Random Variables](continuous_random_variables.ipynb)
 
 ## [Uniform Random Variable](uniform_random_variable.ipynb)
+
+## [Normal Random Variable](normal_random_variable.ipynb)
