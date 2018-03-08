@@ -25,3 +25,5 @@
 ## [Normal Random Variable](normal_random_variable.ipynb)
 
 ## [Exponential Random Variable](exponential_random_variable.ipynb)
+
+## [Hazard Rate Function](hazard_rate_function.ipynb)
