@@ -23,3 +23,5 @@
 ## [Uniform Random Variable](uniform_random_variable.ipynb)
 
 ## [Normal Random Variable](normal_random_variable.ipynb)
+
+## [Exponential Random Variable](exponential_random_variable.ipynb)
