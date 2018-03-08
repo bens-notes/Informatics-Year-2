@@ -17,3 +17,5 @@
 ## [Negative Binomial Random Variable](negative_binomial_random_variable.ipynb)
 
 ## [Hypergeometric Random Variable](hypergeometric_random_variable.ipynb)
+
+## [Continuous Random Variables](continuous_random_variables.ipynb)
