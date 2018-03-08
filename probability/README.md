@@ -19,3 +19,5 @@
 ## [Hypergeometric Random Variable](hypergeometric_random_variable.ipynb)
 
 ## [Continuous Random Variables](continuous_random_variables.ipynb)
+
+## [Uniform Random Variable](uniform_random_variable.ipynb)
