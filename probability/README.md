@@ -26,3 +26,4 @@
 
 ## Jointly Distributed Random Variables
 ### [Joint Distribution Function](joint_distribution_function.ipynb)
+### [Independence](independence.ipynb)
