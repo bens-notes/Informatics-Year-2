@@ -7,3 +7,4 @@
 ### [Monitoring And Replanning](monitoring_and_replanning.ipynb)
 ### [Hierarchical Planning](hierarchical_planning.ipynb)
 ### [Acting Under Uncertainty](acting_under_uncertainty.ipynb)
+### [Bayesian Networks](bayesian_networks.ipynb)
