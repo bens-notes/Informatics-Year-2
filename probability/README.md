@@ -28,4 +28,9 @@
 ### [Joint Distribution Function](joint_distribution_function.ipynb)
 ### [Independence](independence.ipynb)
 ### [Conditional Distributions](conditional_distributions.ipynb)
+
+## Expectation
 ### [Expectation](expectation.ipynb)
+## Expectation
+### [Expectation](expectation.ipynb)
+### [Conditional Expectation](conditional_expectation.ipynb)
