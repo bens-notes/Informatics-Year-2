@@ -1,9 +1,9 @@
 # Informatics Year 2
 
-## [Algorithms And Data Structures](ads/)
+[Algorithms And Data Structures](ads/)
 
-## [Probability With Applications](probability/)
+[Probability With Applications](probability/)
 
-## [Reasoning And Agents](ai/)
+[Reasoning And Agents](ai/)
 
-## [Learning](ml/)
+[Learning](ml/)
