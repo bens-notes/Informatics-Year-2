@@ -1,1 +1,3 @@
 # Learning
+
+[Gaussians](gaussians.ipynb)
