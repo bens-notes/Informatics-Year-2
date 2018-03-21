@@ -9,3 +9,5 @@
 [Hash Tables](hash_tables.ipynb)
 
 [AVL Trees](avl_trees.ipynb)
+
+[Priority Queues And Heaps](priority_queues_and_heaps.ipynb)
