@@ -13,3 +13,5 @@
 [Priority Queues And Heaps](priority_queues_and_heaps.ipynb)
 
 [Heapsort](heapsort.ipynb)
+
+[Quicksort](quicksort.ipynb)
