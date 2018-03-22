@@ -15,3 +15,5 @@
 [Heapsort](heapsort.ipynb)
 
 [Quicksort](quicksort.ipynb)
+
+[Graphs](graphs.ipynb)
