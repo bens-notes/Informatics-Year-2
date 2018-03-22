@@ -11,3 +11,5 @@
 [AVL Trees](avl_trees.ipynb)
 
 [Priority Queues And Heaps](priority_queues_and_heaps.ipynb)
+
+[Heapsort](heapsort.ipynb)
