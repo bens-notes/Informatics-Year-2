@@ -15,3 +15,5 @@
 [Acting Under Uncertainty](acting_under_uncertainty.ipynb)
 
 [Bayesian Networks](bayesian_networks.ipynb)
+
+[Exact Inference In Bayesian Networks](exact_inference_in_bayesian_networks.ipynb)
