@@ -53,3 +53,7 @@
 [Conditional Expectation](conditional_expectation.ipynb)
 
 [Moment Generating Functions](moment_generating_functions.ipynb)
+
+## Inequalities and Limit Theorems
+
+[Inequalitys](inequalitys.ipynb)
