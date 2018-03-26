@@ -59,3 +59,5 @@
 [Inequalitys](inequalitys.ipynb)
 
 [Weak and strong law of large numbers](weak and_strong_law_of_large_numbers.ipynb)
+
+[Central Limit Theorem](central_limit_theorem.ipynb)
